@@ -15,8 +15,8 @@ Brain tumors can be life-threatening, and early detection is crucial for effecti
 
 The datasets used for this project are sourced from Kaggle:
 
-- [Training Dataset]([https://www.kaggle.com/datasets/brain-tumor-mri-dataset/Training](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?select=Training))
-- [Testing Dataset]([https://www.kaggle.com/datasets/brain-tumor-mri-dataset/Testing](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?select=Testing))
+- [Training Dataset][https://www.kaggle.com/datasets/brain-tumor-mri-dataset/Training](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?select=Training)
+- [Testing Dataset][https://www.kaggle.com/datasets/brain-tumor-mri-dataset/Testing](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?select=Testing)
 
 ## Model Architecture
 
