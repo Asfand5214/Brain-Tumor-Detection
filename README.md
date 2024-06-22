@@ -1,8 +1,3 @@
-# Brain-Tumor-Detection
-Certainly! Here is a comprehensive README file for your GitHub repository, including details about the project, setup instructions, usage, and more.
-
----
-
 # Brain Tumor Detection from MRI Images
 
 This repository contains the code and resources for detecting brain tumors from MRI images using a Convolutional Neural Network (CNN). The model is trained to classify MRI images into four categories: glioma, meningioma, pituitary tumor, and no tumor. The project includes preprocessing steps, model training, evaluation, and visualization of the detected tumors with appropriate annotations.
@@ -20,8 +15,8 @@ Brain tumors can be life-threatening, and early detection is crucial for effecti
 
 The datasets used for this project are sourced from Kaggle:
 
-- [Training Dataset](https://www.kaggle.com/datasets/brain-tumor-mri-dataset/Training)
-- [Testing Dataset](https://www.kaggle.com/datasets/brain-tumor-mri-dataset/Testing)
+- [Training Dataset]([https://www.kaggle.com/datasets/brain-tumor-mri-dataset/Training](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?select=Training))
+- [Testing Dataset]([https://www.kaggle.com/datasets/brain-tumor-mri-dataset/Testing](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?select=Testing))
 
 ## Model Architecture
 
