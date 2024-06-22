@@ -169,11 +169,3 @@ predict_and_visualize(test_image_path)
 ## Contributions
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to customize this description to better fit your specific project and any additional details you might want to include.
