@@ -1,4 +1,5 @@
 #Preprocessing
+```python
 import os
 import cv2
 import numpy as np
@@ -20,7 +21,7 @@ test_datagen = ImageDataGenerator(rescale=1./255)
 train_generator = train_datagen.flow_from_directory(train_dir, target_size=img_size, batch_size=batch_size, class_mode='categorical', subset='training')
 validation_generator = train_datagen.flow_from_directory(train_dir, target_size=img_size, batch_size=batch_size, class_mode='categorical', subset='validation')
 test_generator = test_datagen.flow_from_directory(test_dir, target_size=img_size, batch_size=1, class_mode='categorical', shuffle=False)
-
+```
 
 ------------------------------------------------------------------------------
 
